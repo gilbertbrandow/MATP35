@@ -87,7 +87,6 @@ The course may not be included in a degree together with MATP15 Linear Functiona
 
 - [PLAN.md](PLAN.md) - official weekly course plan and review list
 - [lectures/](lectures) - lecture material and course compendia
-- [exercises/](exercises) - exercise sheets and available solutions
 - [exams/](exams) - previous written examinations
 - [summary/](summary) - self-authored concise course summaries and LaTeX sources
 - [misc/](misc) - supplementary and official course material
